@@ -26,8 +26,7 @@ Mahi Blog is a personal recipe blog that showcases a variety of culinary delight
 ## Contribution
 Feel free to fork the repository and submit pull requests for any improvements or additional features you'd like to see!
 
-## License
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
 
 ## Contact
 For any inquiries, please reach out via email at [mahi@gmail.com](mailto:mahi@gmail.com).
